@@ -1,0 +1,4 @@
+
+rule_data_custom:
+  allowed_step_image_registry_prefixes:
+    - trusted-registry.example.io/secure-task-runners/
