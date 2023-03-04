@@ -1,4 +1,7 @@
 
 rule_data_custom:
   allowed_step_image_registry_prefixes:
-    - trusted-registry.example.io/secure-task-runners/
+    - quay.io/redhat-appstudio/
+    - quay.io/openshift-release-dev/
+    - registry.access.redhat.com/
+    - registry.redhat.io/
